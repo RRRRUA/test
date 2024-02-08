@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ceshi:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ea61289-f079-48a5-9a85-fc7d4092b553" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ObS5WxITjCFd8KQN6faKsMY4L2" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/JavaProject/SAComprehensiveExperiment",
+    "list.type.of.created.stylesheet": "CSS",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.15917969",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaProject\ceshi\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Main">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="ceshi" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;E:\javafx\javafx-sdk-18\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoFX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ts.DemoFX" />
+      <module name="ceshi" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;E:\javafx\javafx-sdk-18\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineChartExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.LineChartExample" />
+      <module name="ceshi" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;E:\javafx\javafx-sdk-18\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Main" />
+      <module name="ceshi" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;E:\javafx\javafx-sdk-18\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ts.DemoFX" />
+      <module name="ceshi" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;E:\javafx\javafx-sdk-18\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.fs" />
+      <module name="ceshi" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;E:\javafx\javafx-sdk-18\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Main" />
+        <item itemvalue="应用程序.LineChartExample" />
+        <item itemvalue="应用程序.Demo" />
+        <item itemvalue="应用程序.fs" />
+        <item itemvalue="应用程序.DemoFX" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="4ea61289-f079-48a5-9a85-fc7d4092b553" name="变更" comment="" />
+      <created>1681827606775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681827606775</updated>
+      <workItem from="1681827608009" duration="610000" />
+      <workItem from="1681916786690" duration="55000" />
+      <workItem from="1684469699805" duration="25903000" />
+      <workItem from="1684656200520" duration="2333000" />
+      <workItem from="1684667545233" duration="61000" />
+      <workItem from="1690465729587" duration="707000" />
+      <workItem from="1691939815610" duration="328000" />
+      <workItem from="1695702991552" duration="16000" />
+      <workItem from="1701577807291" duration="1259000" />
+      <workItem from="1701953277186" duration="24000" />
+      <workItem from="1702122894193" duration="1913000" />
+      <workItem from="1702131302272" duration="2456000" />
+      <workItem from="1702525650334" duration="605000" />
+      <workItem from="1703392520256" duration="4971000" />
+      <workItem from="1703518661956" duration="320000" />
+      <workItem from="1704793665221" duration="48000" />
+      <workItem from="1704795710907" duration="5003000" />
+      <workItem from="1704860972734" duration="403000" />
+      <workItem from="1707365442864" duration="178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

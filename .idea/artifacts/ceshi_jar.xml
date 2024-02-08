@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ceshi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ceshi_jar</output-path>
+    <root id="archive" name="ceshi.jar">
+      <element id="module-output" name="ceshi" />
+    </root>
+  </artifact>
+</component>
